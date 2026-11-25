@@ -17,3 +17,8 @@ This assignment is about exploring how a computer works. I practice using the Te
 ## How this repository works
 
 Each mission was completed, documented and committed separately. 
+## My Learning
+
+- I learned how to use Terminal commands to create and manage files.
+- I learned how binary and hexadecimal numbers work.
+- I learned how to use Git to save my work and publish it on GitHub.
