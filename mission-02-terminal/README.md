@@ -42,9 +42,7 @@ I practised basic Terminal commands, created a terminal-practice folder inside m
 
 **Package managers:** A package manager installs, updates and removes software from one place, so I don't have to download each program by hand. It also keeps track of what is installed.
 
-Homebrew status: (keep ONE of these two lines and delete the other)
-- Homebrew is installed on my Mac, and brew --version showed its version number.
-- Homebrew is not installed on my Mac, so I did not install anything. I only explained what a package manager does.
+Homebrew status: Homebrew is installed on my Mac, and brew --version showed its version number. I did not install or uninstall anything.
 
 ## 5. Difficulties faced
 
