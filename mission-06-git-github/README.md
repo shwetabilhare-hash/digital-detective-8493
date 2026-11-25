@@ -46,4 +46,4 @@ Not applicable.
 
 ## 8. Commit details
 
-Branch commit: "Add My Learning section to README". Mission commit: "Complete Git and GitHub collaboration mission". Both were pushed to GitHub.
+Branch commit: "Add My Learning section to README". Mission commit: "Complete Git and GitHub collaboration mission". Both were pushed to GitHub
